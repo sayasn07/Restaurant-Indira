@@ -1,0 +1,15 @@
+Name: men
+Email: men@mail.ru
+Comment: men hello
+--------------------
+Name: privet
+Email: privet@sdu.edu.kz
+Comment: privet
+--------------------
+Name: name
+Email: name@mail.ru
+Comment: name
+--------------------
+Name: jenfd
+Email: encw@mail.ru
+Comment: chwe

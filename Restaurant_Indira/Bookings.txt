@@ -1,0 +1,35 @@
+Name: men
+Email: men@mail.ru
+Date: 2024-03-27
+Time: 12:00 
+Phone: +77771112233
+Size: 2
+Special Requests: men two
+
+--------------------
+Name: privet
+Email: privet@sdu.edu.kz
+Date: 2024-03-28
+Time: 13:00 
+Phone: +77778889911
+Size: 2
+Special Requests: privet
+
+--------------------
+Name: aa
+Email: aaa@sdu.edu.kz
+Date: 2024-03-28
+Time: 15:00 
+Phone: +77777777777
+Size: 7
+Special Requests: 
+
+--------------------
+Name: alikh
+Email: alikh@gmail.com
+Date: 2024-03-29
+Time: 13:00 
+Phone: +77777777777
+Size: 2
+Special Requests: alikh
+
